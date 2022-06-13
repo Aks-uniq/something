@@ -1,2 +1,2 @@
-hello there
-nice to meet you
+Its nothing but a test repository 
+Nothing to see here :)
